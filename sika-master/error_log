@@ -1,0 +1,12 @@
+[12-May-2019 13:11:58 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function isEmpty() in /home/kamilco/public_html/sika/application/views/ikp/print.php on line 292
+[12-May-2019 13:12:24 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function isEmpty() in /home/kamilco/public_html/sika/application/views/ikp/print.php on line 293
+[12-May-2019 13:12:26 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function isEmpty() in /home/kamilco/public_html/sika/application/views/ikp/print.php on line 293
+[12-May-2019 13:13:15 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function isEmpty() in /home/kamilco/public_html/sika/application/controllers/Ikp.php on line 33
+[13-May-2019 06:31:23 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function in_search() in /home/kamilco/public_html/sika/application/views/ikd/edit.php on line 103
+[13-May-2019 07:34:18 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function get_hira() on null in /home/kamilco/public_html/sika/application/controllers/Ikp.php on line 223
+[13-May-2019 07:42:17 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function get_hira() on null in /home/kamilco/public_html/sika/application/controllers/Ikd.php on line 138
+[15-May-2019 08:01:31 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_model::get_user() in /home/kamilco/public_html/sika/application/controllers/User.php on line 60
+[15-May-2019 08:02:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_model::get_user() in /home/kamilco/public_html/sika/application/controllers/User.php on line 60
+[15-May-2019 08:02:37 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/kamilco/public_html/sika/application/controllers/User.php on line 64
+[15-May-2019 08:09:39 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_model::add_user() in /home/kamilco/public_html/sika/application/controllers/User.php on line 44
+[15-May-2019 08:10:07 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method User_model::delete_user() in /home/kamilco/public_html/sika/application/controllers/User.php on line 152
